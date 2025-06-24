@@ -18,15 +18,16 @@ An end-to-end Medical Assistant Chatbot built using LangChain and Pinecone Vecto
 
 
 ### ⚙️ Tech Stack
-🐍 Python
 
-🔗 LangChain
+- 🐍 Python
 
-🌲 Pinecone Vector Database
+- 🔗 LangChain
 
-⚗️ Flask (for frontend chat UI)
+- 🌲 Pinecone Vector Database
 
-🕸️ Django (for admin interface & routing)
+- ⚗️ Flask (for frontend chat UI)
 
-🤖 OpenAI GPT model (via API)
+- 🕸️ Django (for admin interface & routing)
+
+- 🤖 OpenAI GPT model (via API)
 
