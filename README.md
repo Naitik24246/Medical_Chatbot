@@ -28,6 +28,3 @@ An end-to-end Medical Assistant Chatbot built using LangChain and Pinecone Vecto
 - ⚗️ Flask (for frontend chat UI)
 
 - 🕸️ Django (for admin interface & routing)
-
-- 🤖 OpenAI GPT model (via API)
-
